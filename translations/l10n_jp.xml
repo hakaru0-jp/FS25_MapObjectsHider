@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <text name="input_MAP_OBJECT_HIDER_HIDE"		text="マップオブジェクトを非表示にする"/>
+        <text name="input_MAP_OBJECT_HIDER_DECOLLIDE"	text="衝突判定（コリジョン）のみ削除"/>
+        <text name="input_MAP_OBJECT_HIDER_GUI"			text="Map Objects Hiderパネルを開く"/>
+        <text name="moh_MAP_OBJECT_HIDER_GUI"			text="非表示オブジェクト一覧を表示"/>
+        <text name="moh_HIDE"							text="非表示にする (%s)"/>
+        <text name="moh_DECOLLIDE"						text="衝突判定を削除 (%s)"/>
+        <text name="moh_SELL"							text="売却 (%s)"/>
+        <text name="moh_DELETE"							text="削除 (%s)"/>
+        <text name="moh_dialog_title"					text="Map Objects Hider"/>
+        <text name="moh_ask_hide"					    text="本当に %s を非表示にしますか？"/>
+        <text name="moh_ask_decollide"                  text="本当に %s の衝突判定を削除しますか？"/>
+        <text name="moh_delete_split_shape_dialog_text"	text="本当にこの木を削除しますか？"/>
+        <text name="moh_delete_dialog_text"             text="本当に %s を削除しますか？"/>
+        <text name="moh_sell_dialog_text"				text="本当に %s を売却しますか？" />
+        <text name="moh_gui_title"						text="非表示中のオブジェクト" />
+        <text name="moh_gui_loading_text"				text="非表示オブジェクトを読み込み中..." />
+        <text name="moh_gui_no_objects_text"			text="非表示にされているオブジェクトはありません" />
+        <text name="moh_gui_button_restore"				text="元に戻す" />
+        <text name="moh_camview"                        text="カメラ" />
+    </texts>
+</l10n>
